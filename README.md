@@ -55,14 +55,7 @@ Replaced manual logbooks with automated RFID entry/exit tracking. Features bulk 
 
 Instant RFID health profile retrieval for clinic staff, with automated parent email notifications and structured medical record management.
 
----
 
-## 📊 GitHub Stats
-
-![Mico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MicoVicencio&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MicoVicencio&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🏅 Awards & Recognition
 
